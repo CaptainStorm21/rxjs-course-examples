@@ -1,0 +1,32 @@
+Observables
+  - working with streams
+  - values over time
+  - functional programming
+
+Observer is a software design pattern
+in which an object called the subject
+maintains a list of its dependents called
+observers and notifies them automatically
+of any state changes usually by calling
+one of their methods.
+
+stream is similar to raw dough/data
+data arrives over time
+we call that flow of data stream.
+
+as data flows through our stream we can:
+- process it
+- transform it
+operators
+
+then when we are done processin our streams of data,
+we send it to our subscribers or customers
+
+reactive extension library is specifically rxjs library
+which is specifically desgined for handling observable
+streams of data
+
+we wll start to see the streams of data from values arrive
+over the dimension of time and it is going ot be functional
+
+
