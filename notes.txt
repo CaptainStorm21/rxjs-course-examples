@@ -1,3 +1,7 @@
+1. npm install
+2. npm run build
+3. npm start
+
 Observables
   - working with streams
   - values over time
